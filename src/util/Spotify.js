@@ -1,7 +1,6 @@
-let accessToken;
-
 const clientId = '637997b079714c75a57bf95bd6c63177'
-const redirectURI = 'http://localhost:3000/'
+//const redirectURI = 'http://localhost:3000/'
+const redirectURI = 'http://disastrous-credit.surge.sh/';
 
 let accessToken;
 
